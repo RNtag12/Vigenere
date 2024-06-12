@@ -8,6 +8,7 @@ The Vigenère cipher is a classic method of encrypting alphabetic text using a s
 
 <h2>tools</h2>
 -  Python
+
 -  Jupyter Notebook
 
 ## Note: For the code to execute successfully, make sure that both the dictionary.txt, the encrypted file and the code.pynb files are in the same directory. 
